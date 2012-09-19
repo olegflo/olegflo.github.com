@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-Hi! Thanks to (http://vessi.github.com/blog/2012/06/10/sozdaniie-blogha-na-github-i-octopress/) I've setted up Octopress :)
+Hi! Thanks to http://vessi.github.com/blog/2012/06/10/sozdaniie-blogha-na-github-i-octopress/ I've setted up Octopress :)
